@@ -308,6 +308,9 @@ section {
   margin-bottom: 0;
 }
 
+.about .img {
+  background: url("../img/about-profile-img.jpg") top right no-repeat;
+}
 
 /* Skills */
 
